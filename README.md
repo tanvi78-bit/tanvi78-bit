@@ -5,4 +5,4 @@
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=tanvi78-bit&theme=dark)](https://git.io/streak-stats)
 
- ![snake gif](https://github.com/tanvi78-bit/tanvi78-bit/blob/output/github-contribution-grid-snake.svg)
+ ![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvi78-bit&show_icons=true&theme=dark)
